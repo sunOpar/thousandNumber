@@ -1,0 +1,31 @@
+{
+  "name": "thousandnumber",
+  "version": "1.0.0",
+  "description": "Turn digits into thousands",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint --fix index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunOpar/thousandNumber.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Number"
+  ],
+  "author": "sunopar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunOpar/thousandNumber/issues"
+  },
+  "homepage": "https://github.com/sunOpar/thousandNumber#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "jest": "^22.2.1",
+    "prettier": "^1.10.2"
+  }
+}
