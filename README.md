@@ -1,4 +1,4 @@
-# thousandNum
+# thousandNumer
 Turn digits into thousands
 
 ## download
