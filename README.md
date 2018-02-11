@@ -1,12 +1,12 @@
 # thousandNumer
 Turn digits into thousands
 
-## download
+## Installation
 
 ```
 npm install --save thousandNumber
 ```
-## how to use
+## Usage
 
 ```
 import thousandNumber from 'thousandNumber';
